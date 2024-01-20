@@ -6,7 +6,7 @@ header {
 }
 
 .logo {
-    background: url("../images/rosie.jpg");
+    background: url("/workspaces/resume-project/assets/images/rosie.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
